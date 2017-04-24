@@ -1,6 +1,6 @@
 # npmtest-log.io
 
-#### test coverage for  [log.io (v0.3.4)](http://logio.org)  [![npm package](https://img.shields.io/npm/v/npmtest-log.io.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-log.io) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-log.io.svg)](https://travis-ci.org/npmtest/node-npmtest-log.io)
+#### basic test coverage for  [log.io (v0.3.4)](http://logio.org)  [![npm package](https://img.shields.io/npm/v/npmtest-log.io.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-log.io) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-log.io.svg)](https://travis-ci.org/npmtest/node-npmtest-log.io)
 
 #### Realtime log monitoring in your browser
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-log.io/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-log.io/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-log.io/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-log.io/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-log.io/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-log.io/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-log.io/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-log.io/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-log.io/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-log.io/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-log.io/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-log.io/build/coverage.html/index.html)
 
